@@ -3,7 +3,7 @@ Grade: 98.
 This is the final project of the course Random Signals. 3rd year of degree - Computer Engineering.
 The topics that I learned in this course are thrilling to me.
 Overall, All the topics might connect, in any aspect, to Propability, Applied Mathematics or random signals gettes the most attension from me. 
-This work done by me and a colleague from college.
+This work done by me and a colleague from university.
 
 The main topics of this project are:
 1) implementations of processes like: AR Process, White noise (and Gaussian), Bernoulli process and many more.
